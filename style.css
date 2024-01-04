@@ -1,0 +1,45 @@
+.img-rahul img{
+	width: 90%;
+}
+.mid-content{
+	margin-top:100px;
+	text-align: center;
+}
+.mid-content h4{
+	color: blue;
+}
+.mid-content span{
+	color: blue;
+}
+.main-res{
+	margin-top: 50px;
+}
+.mar-bo{
+	margin-bottom: 100px;
+}
+.main-res h4{
+	color: blue;
+}
+.main-res hr{
+	height:2px;
+	border-width:0;
+	background-color: blue;
+}
+
+/*time table css..........................................................*/
+.time-table{
+	border-top:    2px solid  black;
+border-right:  2px solid  black;
+border-bottom: 2px solid  black;
+border-left:  2px solid  black;
+}
+.time-day{
+	border-right: 2px solid  black;
+}
+.time-top h4
+{
+	border-bottom: 2px solid  black;
+}
+.tops p{
+background: #4c34eb;
+}
